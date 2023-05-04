@@ -1,0 +1,9 @@
+<resources>
+
+        <string name="app_name">DiceRoller</string>
+        <string name="roll_label">Roll</string>
+        <string name="txtNuM">Digite um número:</string>
+        <string name="txtResultado">Prepare-se para rodar o dado</string>
+
+
+</resources>
